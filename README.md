@@ -16,5 +16,9 @@ Prior to maturity, the bond can provide regular coupon payments. Depending on th
 .
 
 
-Reference:
-https://finpricing.com/lib/EqReverse.html
+References:
+
+https://finpricing.com/lib/EqVariance.html
+
+https://bitbucket.org/cmrm11/eqreverse/downloads/EqReverse-18.pdf
+
